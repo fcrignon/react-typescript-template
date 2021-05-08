@@ -1,2 +1,2 @@
-# react-typescript-template
-react typescript template
+# template-repo
+
